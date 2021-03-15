@@ -48,3 +48,19 @@ border-radius: 10px;
 {
   font-family: 'Roboto', sans-serif;
 }
+
+.card-body
+{
+  background-color: #0D181F;
+}
+
+.card-text, ul
+{
+  color: #fff;
+  text-align: justify;
+}
+
+.card-title
+{
+  color: #9FEAE7;
+}
